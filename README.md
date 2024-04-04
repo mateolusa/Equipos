@@ -1,1 +1,56 @@
 # Equipos
+{
+"equipos":
+[
+    {
+        "Nombre": "Boca Juniors",
+        "Escudo": "https://www.sopitas.com/wp-content/uploads/2020/05/boca-juniors-historia-destras-escudo.png",
+        "Titulos": 74
+    },
+    {
+        "Nombre": "River Plate",
+        "Escudo": "https://brandemia.org/contenido/subidas/2022/02/000-river-plate.jpg",
+        "Titulos": 72
+    },
+    {
+        "Nombre": "Independiente",
+        "Escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOPv_bmeB4AZ4wcNhR4k1N4gexHDcvYquZdqEdkBupw&s",
+        "Titulos": 45
+    },
+    {
+        "Nombre": "Racing Club",
+        "Escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLZA5sGsG2c1iWuyjzAOBHMnU6g7WKfzgayQ-7hHeEw&s",
+        "Titulos": 39
+    },
+    {
+        "Nombre": "San Lorenzo",
+        "Escudo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Escudo_del_Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro.png",
+        "Titulos": 22
+    },
+    {
+        "Nombre": "Velez Sarsfield",
+        "Escudo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Escudo_de_V%C3%A9lez.jpg",
+        "Titulos": 16
+    },
+    {
+        "Nombre": "Estudiantes LP",
+        "Escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNASWHJToIK_0Ek5BDLFE4IFNI7bH49SkkulPoAEbZ1A&s",
+        "Titulos": 15
+    },
+    {
+        "Nombre": "Huracan",
+        "Escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Escudo_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg.png",
+        "Titulos": 13
+    },
+    {
+        "Nombre": "Rosario Central",
+        "Escudo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6x-YX67fEy6fBYR82Wk5jiM6Sq4zoIBFZsMuIqTMmig&s",
+        "Titulos": 12
+    },
+    {
+        "Nombre": "Newells",
+        "Escudo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Escudo_del_Club_Atl%C3%A9tico_Newell%27s_Old_Boys_de_Rosario.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Newell%27s_Old_Boys_de_Rosario.svg.png",
+        "Titulos": 9
+    }
+]
+}
